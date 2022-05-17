@@ -1,0 +1,31 @@
+body{
+    background-image: url(vião.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 17%;
+    padding: 27px;
+    color: #000010;
+}
+
+button {
+    margin-left: 40%;
+    padding: 20px;
+    border: solid;
+    border-radius: 5px;
+    background-color: #F4D9D0;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #E5AAAE;
+    transition-duration: 2s;
+    cursor: pointer;
+}
+
